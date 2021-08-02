@@ -80,7 +80,6 @@
 	.img{
 		width: 100%;
 		height: 110px;
-		border: 1px solid black;
 	}
 .image{
 	width: 100px;

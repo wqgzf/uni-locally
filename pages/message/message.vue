@@ -1,6 +1,6 @@
 <template>
 	<view>
-		
+		message
 	</view>
 </template>
 
